@@ -1,0 +1,11 @@
+# criação de novo repositório :computer:
+
+
+
+abra o git bash dentro da pasta que está trabalhando
+
+usa se git init dentro da pasta que irá para o git hub
+
+depois git remote add origin e o endereço do repositório novo criado no github   
+
+depois git push origin master 
